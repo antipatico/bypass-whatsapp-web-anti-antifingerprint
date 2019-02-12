@@ -8,3 +8,10 @@ This simple [ViolentMonkey](https://violentmonkey.github.io/)'s script will fix
 this __"glitch"__.
 
 Tested on Linux / Windows && Firefox.
+
+## Installation
+
+Install using this URL:
+```
+https://raw.githubusercontent.com/antipatico/bypass-whatsapp-web-anti-antifingerprint/master/BypassWhatsAppWebAntiAntiFingerprint.js
+```
