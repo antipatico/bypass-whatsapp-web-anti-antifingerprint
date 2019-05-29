@@ -2,7 +2,7 @@
 // @namespace    Violentmonkey Scripts
 // @name         Bypass WhatsApp Web Anti AntiFingerprint
 // @author       antipatico (github.com/antipatico)
-// @version      0.1-beta
+// @version      0.2-beta
 // @description  Use WhatsApp Web with AntiFingerprint enabled!
 // @homepageURL  https://github.com/antipatico/bypass-whatsapp-web-anti-antifingerprint
 // @updateURL    https://raw.githubusercontent.com/antipatico/bypass-whatsapp-web-anti-antifingerprint/master/BypassWhatsAppWebAntiAntiFingerprint.js
