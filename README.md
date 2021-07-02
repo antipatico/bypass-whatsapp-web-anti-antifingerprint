@@ -1,5 +1,7 @@
 # Bypass WhatsApp Web Anti AntiFingerprint
 
+### NOTE: this project is archived and is probably not working anymore
+
 Since [WhatsApp Web](https://web.whatsapp.com) is obfuscated, I don't really
 know why but when you have `privacy.resistFingerprinting` on `true` the QRCode
 used to connect to your phone disappears instantaneously after loading.
